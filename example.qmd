@@ -9,4 +9,7 @@ editor: visual
 
 This is an example Quarto document for practicing Git and GitHub commands.
 
+## Combined changes from both branches:
 ## This is a DIFFERENT change from MAIN to cause a conflict
+## This section was added in testbranch
+

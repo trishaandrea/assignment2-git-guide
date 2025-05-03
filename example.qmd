@@ -8,3 +8,5 @@ editor: visual
 ## Hello GitHub
 
 This is an example Quarto document for practicing Git and GitHub commands.
+
+## This is a DIFFERENT change from MAIN to cause a conflict

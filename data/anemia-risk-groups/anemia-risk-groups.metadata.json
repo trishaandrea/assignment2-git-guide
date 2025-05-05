@@ -1,0 +1,63 @@
+{
+  "chart": {
+    "title": "Share of the population with anemia in higher risk groups",
+    "subtitle": "Anemia is a condition that develops when your blood lacks enough healthy red blood cells or hemoglobin.",
+    "citation": "World Health Organization (via World Bank) (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/anemia-risk-groups?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Low-income countries",
+      "Lower-middle-income countries",
+      "Upper-middle-income countries",
+      "High-income countries"
+    ]
+  },
+  "columns": {
+    "Prevalence of anemia among women of reproductive age (% of women ages 15-49)": {
+      "titleShort": "Women of reproductive age",
+      "titleLong": "Women of reproductive age",
+      "shortUnit": "%",
+      "unit": "% of women ages 15-49",
+      "timespan": "2000-2019",
+      "type": "Numeric",
+      "owidVariableId": 1008603,
+      "shortName": "sh_anm_allw_zs",
+      "lastUpdated": "2025-01-24",
+      "nextUpdate": "2026-01-24",
+      "citationShort": "World Health Organization (via World Bank) (2025) – processed by Our World in Data",
+      "citationLong": "World Health Organization (via World Bank) (2025) – processed by Our World in Data. “Women of reproductive age” [dataset]. World Health Organization (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1008603.metadata.json"
+    },
+    "Prevalence of anemia among pregnant women (%)": {
+      "titleShort": "Pregnant women",
+      "titleLong": "Pregnant women",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2000-2019",
+      "type": "Numeric",
+      "owidVariableId": 1008664,
+      "shortName": "sh_prg_anem",
+      "lastUpdated": "2025-01-24",
+      "nextUpdate": "2026-01-24",
+      "citationShort": "World Health Organization (via World Bank) (2025) – processed by Our World in Data",
+      "citationLong": "World Health Organization (via World Bank) (2025) – processed by Our World in Data. “Pregnant women” [dataset]. World Health Organization (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1008664.metadata.json"
+    },
+    "Prevalence of anemia among children (% of children ages 6-59 months)": {
+      "titleShort": "Children",
+      "titleLong": "Children",
+      "shortUnit": "%",
+      "unit": "% of children under 5",
+      "timespan": "2000-2019",
+      "type": "Numeric",
+      "owidVariableId": 1008604,
+      "shortName": "sh_anm_chld_zs",
+      "lastUpdated": "2025-01-24",
+      "nextUpdate": "2026-01-24",
+      "citationShort": "World Health Organization (via World Bank) (2025) – processed by Our World in Data",
+      "citationLong": "World Health Organization (via World Bank) (2025) – processed by Our World in Data. “Children” [dataset]. World Health Organization (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1008604.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-03-25",
+  "activeFilters": {}
+}
